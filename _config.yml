@@ -1,7 +1,7 @@
 name: Karatlove1
 favicon: null
-layout_spectrum: 0.9696015680674464
-typography_spectrum: 0.9199979633558542
+layout_spectrum: 0.75196
+typography_spectrum: 0.52191
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#e3e3e3'
+    - '#a2a2a0'
+    - '#3f301c'
+    - '#666545'
+    - '#98794e'
   brandStrength: 0.5586144069675356
   lightness: 0.9735300503671169
   saturation: 0.8274698571767658
-  rhythmicContrast: 0.5315989074297249
+  rhythmicContrast: 0.5
 purpose: []
